@@ -5,13 +5,21 @@
 * easy to use 
 * Please do not use the tool for anything illegal
 
+# Installations 
 
+# For KALI LINUX :
 
+```
+$ git clone https://github.com/d5tr/Dragon_Eye
+```
 
+```
+$ cd Dragon_Eye
+```
 
-
-
-
+```
+$ sudo pyhton3 Dragon_Eye -h
+```
 
 
 # Follow me 
