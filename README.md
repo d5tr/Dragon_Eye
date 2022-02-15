@@ -18,7 +18,7 @@ $ cd Dragon_Eye
 ```
 
 ```
-$ sudo pyhton3 Dragon_Eye -h
+$ sudo pyhton3 Dragon_Eyes -h
 ```
 
 
